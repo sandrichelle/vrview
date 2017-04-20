@@ -1,4 +1,4 @@
-/*
+a/*
  * Copyright 2016 Google Inc. All Rights Reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@ var vrView;
 // All the scenes for the experience
 var scenes = {
     petra: {
-    image: 'andes.jpg',
+    image: 'petra.jpg',
     preview: 'petra-preview.jpg'
   },
   christTheRedeemer: {
